@@ -1,0 +1,41 @@
+
+.h_space{
+
+
+    font-family: 'Proza Libre', sans-serif;
+    min-height: 200px;
+    color:  #abb9d1;
+
+}
+
+body{
+
+    background: black;
+}
+
+.whole_page{
+
+    background: black;
+    /*max-width: 960px;*/
+
+}
+
+h1{
+
+}
+
+
+.title{
+
+    padding: 7.5%;
+    max-width: 50%;
+    border-radius: 2%;
+
+}
+
+.login{
+    padding: 7.5%;
+    background: #abb9d1;
+    max-width: 50%;
+    border-radius: 2%;
+}
