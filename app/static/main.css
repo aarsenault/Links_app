@@ -21,13 +21,40 @@ body{
 }
 
 
+h1{
+    font-size: 48px;
+
+}
+
+
+.sign_in{
+
+    padding-bottom: 7.5%;
+}
+
+.logo_text{
+
+
+    padding-top: 5%;
+}
 
 
 .title{
 
-    padding: 7.5%;
-    max-width: 50%;
+
+    padding-top: 1%;
+    max-width: 60%;
+
     border-radius: 2%;
+
+
+
+
+ /*old*/
+/*    padding: 7.5%;
+    max-width: 50%;
+
+    border-radius: 2%;*/
 
 }
 
