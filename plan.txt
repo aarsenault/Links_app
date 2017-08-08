@@ -1,0 +1,77 @@
+
+
+-----------------------[ SUPER LINKS ] ------------------------------------
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
+
+TODO:
+
+
+[1] * Make a landing page 
+* get flask up and running x
+* Make the main "login/  x
+* signup/" page
+* "front end" for that x
+
+
+* Build the main profile page   x
+* hardcoded data   x
+* [BAR] | add new link | Profile| settings | logout|  x
+content 
+
+* sign in/ users
+- password verification x
+- log in x
+- log out X
+
+* Create the database - Postgressql 
+
+* Create the users
+- name
+- password
+
+* Links 
+- user
+- date
+- url 
+- 
+
+* Create User methods 
+* Register
+* verify and store login
+
+* Login 
+- encryption 
+- verification
+
+* Logout 
+
+* Delete User
+
+
+*Create Links methods:
+    * save link
+    * Delete link 
+  
+ * Build Emailer scripts
+ * integrate Mailgun 
+* Checkout Twilio for SMS - optional   
+    
+* Create Settings methods
+* Email settings
+* when to emailed etc
+
+
+* Testing 
+
+
+run.py
+app.py/
+     __init__.py
+     views.py
+     templates/
+     static/
+
+    
+
+
+

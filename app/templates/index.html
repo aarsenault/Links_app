@@ -1,21 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title> Links App </title>
+{% extends 'base.html' %}
 
-    {% include 'dependencies.html' %}
-
-</head>
-
-<body>
+{% block content %}
 
     <div class="whole_page">
 
 
         <div class="h_space ">
 
-            <div class="container title">
+            <div class="title">
 
                 <div class="row">
 
@@ -50,7 +42,7 @@
 
         <div class="col-md-12">
 
-          <div class="form-size"> <form action="" method="post">
+          <div class="form-size"> <form action="{{ url_for('login') }}" method="post">
             <div class="form-group">
               <input type="email" class="form-control" id="email" name="email" placeholder="Email">
             </div>
@@ -74,13 +66,4 @@
     </div>
 
 
-
-
-
-
-
-</body>
-
-
-
-</html>
+{% endblock %}
